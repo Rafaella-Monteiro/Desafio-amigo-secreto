@@ -61,12 +61,13 @@ cd Desafio-amigo-secreto
 - CSS
 - JavaScript
 
-📂 amigo-secreto
-│── 📂 assetes  → mídias utilizadas no projeto
-│── index.html  → Estrutura da página
-│── style.css   → Estilos da página 
-│── app.js      → Código JavaScript
-└── README.md   → Instruções do projeto
+amigo-secreto
+│── 📂 assets         → Mídias utilizadas no projeto
+│── index.html        → Estrutura da página
+│── style.css         → Estilos da página
+│── app.js            → Código JavaScript
+└── README.md         → Instruções do projeto
+
 
 
 ##
