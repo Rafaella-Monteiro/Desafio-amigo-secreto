@@ -63,8 +63,13 @@ cd Desafio-amigo-secreto
 
 ## 📂 Estrutura de Pastas:
 
-amigo-secreto │── 📂 assets → Mídias utilizadas no projeto │── index.html → Estrutura da página │── style.css → Estilos da página │── app.js → Código JavaScript └── README.md → Instruções do projeto
-
-
+```
+📂Desafio-amigo-secreto
+├── 📂 assets      → Mídias utilizadas no projeto
+├── index.html     → Estrutura da página
+├── style.css      → Estilos da página
+├── app.js         → Código JavaScript
+└── README.md      → Instruções do projeto
+```
 ##
 ## 🦋 Feito por Rafaella Monteiro
